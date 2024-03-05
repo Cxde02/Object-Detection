@@ -1,2 +1,2 @@
 # Object-Detection
-Object Detection using YOLO.
+NPCs identification for Terraria
