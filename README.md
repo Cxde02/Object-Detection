@@ -1,2 +1,2 @@
 # Object-Detection
-NPCs identification for Terraria
+Pre - Hardmode NPCs identification for Terraria.
